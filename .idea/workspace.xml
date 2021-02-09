@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa62f49c-61ab-467d-a066-0556b5733e3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AppName/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/androidTest/java/com/example/appname/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/java/com/example/appname/Female.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/java/com/example/appname/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/java/com/example/appname/Male.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/java/com/example/appname/Splash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/java/com/example/appname/Step1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/java/com/example/appname/Step2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/bg_splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/btn_active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/btn_active_gender.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/btn_female.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/btn_gender.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/female_girl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_build.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_female.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_hands.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_keeping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_legs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_male.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_spine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_torso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/icon_weight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/launch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable-v24/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable/by_button_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/font/alike.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/font/convergence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/layout/female.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/layout/male.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/layout/splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/layout/step_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/layout/step_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/app/src/test/java/com/example/appname/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppName/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lfiuAhGrR1NE6BgUywSVtEE8gt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa62f49c-61ab-467d-a066-0556b5733e3b" name="Default Changelist" comment="" />
+      <created>1607994766354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607994766354</updated>
+    </task>
+    <servers />
+  </component>
+</project>
